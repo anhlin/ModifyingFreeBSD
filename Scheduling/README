@@ -1,0 +1,83 @@
+Team: Evanescence 
+Captain: Mackenzie Huynh
+Members: Anthony Lin
+
+Assignment 2: Splatter Scheduling
+
+Implemented:
+Case 1: Base (Default) Case
+Case 2: Priority Queue
+Case 3: Splatter Scheduling
+Case 4: Splatter Scheduling with Priority Queue
+
+
+System Configuration:
+ - 1 CPU
+ - 2048 MB RAM
+
+
+Instructions: 
+1. Run make in the assgn-2 directory
+	- This will copy sched_ule.c and kern_switch.c into the
+	  usr/src/sys/kern directory in the kernel and overwrite
+	  the original files. 
+	- It will then build and install the kernel. 
+  	- Then reboot
+2. Wait for system to reboot. 
+3. cd back into the assgn-2 directory
+4. chmod +x switch.sh to allow permissions for schedule switch shell script.
+4. ./switch.sh 1 to run shell that will set the schedule to Case 1 (default = 1 already).
+5. cd into the benchmark directory and run make to make the benchmark executable. 
+6. chmod +x run_bench.sh
+7. ./run_bench.sh will run the benchmark for the current case. We did our benchmarks
+    as user rather than as root. 
+8. Switch cases by cd-ing back out to the root directory and running 
+   ./switch.sh 2, ./switch.sh 3, or ./switch.sh 4 depending on the case. 
+
+
+
+Files Included:
+
+Directory: sys/kern
+
+  sched_ule.c 
+    - Modified tdq_runq_add to check if the thread is a user
+      process and set it to the timeshare runq for td_sched. We
+      also create a system variable to switch between cases using
+      SYSCTL_INT.  
+
+  kern_switch.c
+    - Modified runq_add to implement splatter scheduling as well
+      as the priority queue. 
+
+Directory: root directory
+
+  Makefile  
+    - This will copy sched_ule.c and kern_switch.c into the sys/kern
+    directory in the kernel. After this it will build the kernel and
+    install it.
+
+  switch.sh
+      - Script to switch between cases. 
+
+
+  DESIGN.pdf
+      - Implementation, explanation, and reasoning.
+
+  REPORT.pdf
+      - Benchmark, analysis
+  
+
+Directory: benchmark
+  
+  benchmark.c 
+    - Benchmark Code
+    - Generates different seed values using srand. Then creates five 
+      sub-processes using fork(). Each process uses a different seed 
+      to generate random nice values.
+
+  run_bench.sh
+    - Script to run benchmark with time command. 
+
+  Makefile
+    - Compiles benchmark.c 

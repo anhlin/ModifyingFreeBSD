@@ -1,0 +1,57 @@
+Team: Evanescence 
+
+Captain: Mackenzie Huynh
+
+Members: Anthony Lin,
+         Khachatur Mirijanyan, 
+         Priya Calaimany
+
+Assignment 3: Page Replacement (Bon Chance Algorithm)
+
+-----------------------------------------------------
+
+[System Configuration]:
+ - 1 CPU
+ - 2048 MB RAM
+
+[Instructions]: 
+
+1. Run make in the assgn-3 directory
+	- This will copy vm_page.c, vm_pageout.c, and vm_phys.c from the src into the
+	  usr/src/sys/vm directory in the kernel and overwrite the original files. 
+	- It will then build, install the kernel, and reboot the system 
+
+2. Wait for system to reboot. 
+3. cd back into the assgn-3 directory
+4. chmod +x benchmark.sh to allow permissions for the benchmark shell script.
+5. chmod +x switch.sh to allow permissions for the algorithm switch shell script.
+6. Switch cases by running ./switch.sh 0 for FreeBSD or ./switch.sh 1 for Bon Chance. 
+	(We restarted the VM first before switching to a different case)
+7. ./benchmark.sh will run the benchmark for the current case. (We ran the benchmark.sh 5 times for each case)
+
+
+[Files]:
+
+Directory: /
+
+  Makefile  
+  benchmark.sh
+  switch.sh
+    - The design, implementation, and usage of these files explained
+      in the DESIGN.pdf
+  DESIGN.pdf
+  WRITEUP.pdf
+    - The analysis of our statistics.
+
+Directory: /logs/
+  debug (BON CHANCE).log
+  debug (FREEBSD).log
+
+Directory: /src/
+
+  vm_page.c 
+  vm_pageout.c
+  vm_phys.c
+    - The design, implementation, and changes made in these files are explained
+      in the DESIGN.pdf.
+

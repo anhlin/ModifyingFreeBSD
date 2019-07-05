@@ -1,0 +1,64 @@
+Team: Evanescence 
+
+Captain: Mackenzie Huynh
+
+Members: Anthony Lin,
+         Khachatur Mirijanyan, 
+         Priya Calaimany
+
+Assignment 4: Cryptographic File System
+
+---------------------------------------------------------------------------------------------------
+
+[System Configuration]:
+ - 1 CPU
+ - 2048 MB RAM
+
+[Instructions]: 
+
+1. Run make in the assgn-4 directory
+	- This will copy vfs_syscalls.c and syscalls.master from the src folder into the
+	  usr/src/sys/kern directory in the kernel and overwrite the original files. 
+	- It will then build, install the kernel, and reboot the system. 
+
+2. Wait for system to reboot. 
+3. cd back into the assgn-4 directory
+4. chmod +x compile.sh to allow permissions for the compile shell script to build our programs.
+5. ./compile.sh to build the programs (protectfile, setkey, fs)
+    (-NOTE: If an error about pkgconf is not installed, please install it!
+            the build for the fuse program uses the flag: `pkgconf fuse --cflags --libs`)
+
+6. chmod +x mountfs.sh to allow permissions for the mount shell script.
+7. chmod +x unmount.sh to allow permissions for the unmount shell script.
+8. sudo kldload fuse (loads the FUSE driver/module) (done as root)
+9. ./mountfs to mount the FUSE fs for the directory: fusefs (done as root)
+10. login to a different user, then cd into the assgn-4/fusefs directory, then from there
+    cd back into the assgn-4 directory. (so, the the working directory looks something like: ../assgn-4/fusefs/../assgn-4/)
+11. Now, in the assgn-4 directory, the testing can be done. 
+        - ./setkey [key] (-NOTE: if no key is specified, then the program unsets the key for the user if the user has a key in the table already)
+        - ./.protectfile [-e|--encrypt|-d|--decrypt] [key] [fileName]
+
+[Files]:
+
+Directory: /
+
+  Makefile  
+  DESIGN.pdf
+  WRITEUP.pdf
+    - The analysis of our statistics.
+  aes.c / aes.h
+    - AES Encryption files.
+  compile.sh
+  mountfs.sh
+  unmount.sh
+  protectfile.c
+  setkey.c
+  fs.c
+    - All their implementation and purpose provided inside the DESIGN.pdf
+  
+Directory: /src/
+
+  vfs_syscalls.c 
+  syscalls.master
+      
+

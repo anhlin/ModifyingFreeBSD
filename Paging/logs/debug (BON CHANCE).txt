@@ -1,0 +1,1260 @@
+May  1 16:33:10 mhuynh2 newsyslog[506]: logfile first created
+May  1 17:11:40 mhuynh2 dhclient[373]: em0 link state up -> down
+May  1 17:11:43 mhuynh2 dhclient[373]: em0 link state down -> up
+May  1 17:11:49 mhuynh2 dhclient[373]: em0 link state up -> down
+May  1 17:11:52 mhuynh2 dhclient[373]: em0 link state down -> up
+May  1 17:16:29 mhuynh2 dhclient[373]: em0 link state up -> down
+May  1 17:16:32 mhuynh2 dhclient[373]: em0 link state down -> up
+May  1 17:19:02 mhuynh2 dhclient[373]: em0 link state up -> down
+May  1 17:19:05 mhuynh2 dhclient[373]: em0 link state down -> up
+May  1 17:19:23 mhuynh2 dhclient[373]: em0 link state up -> down
+May  1 17:19:26 mhuynh2 dhclient[373]: em0 link state down -> up
+May  1 17:19:55 mhuynh2 dhclient[373]: em0 link state up -> down
+May  1 17:19:58 mhuynh2 dhclient[373]: em0 link state down -> up
+May  1 17:24:44 mhuynh2 dhclient[373]: em0 link state up -> down
+May  1 17:24:47 mhuynh2 dhclient[373]: em0 link state down -> up
+May  1 17:28:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 2598 | Inactive: 5772 | Laundry: 0 | Free: 456799
+May  1 17:28:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 25 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 404
+May  1 17:28:14 mhuynh2 kernel: 
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 17664 | Inactive: 5772 | Laundry: 0 | Free: 441876
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 155 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 17 | Inactive->Active: 0 | Inactive->Free: 264
+May  1 17:28:15 mhuynh2 kernel: 
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 26764 | Inactive: 5788 | Laundry: 0 | Free: 432520
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 267 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 58 | Inactive->Active: 0 | Inactive->Free: 161
+May  1 17:28:15 mhuynh2 kernel: 
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 37617 | Inactive: 5845 | Laundry: 0 | Free: 420026
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 376 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 335 | Inactive->Active: 0 | Inactive->Free: 943
+May  1 17:28:15 mhuynh2 kernel: 
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 42434 | Inactive: 6165 | Laundry: 0 | Free: 404442
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 424 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 322 | Inactive->Active: 0 | Inactive->Free: 5405
+May  1 17:28:15 mhuynh2 kernel: 
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 52512 | Inactive: 6485 | Laundry: 0 | Free: 380909
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 525 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 244 | Inactive->Active: 0 | Inactive->Free: 6847
+May  1 17:28:15 mhuynh2 kernel: 
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 53516 | Inactive: 6741 | Laundry: 0 | Free: 373932
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 535 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 222 | Inactive->Active: 0 | Inactive->Free: 2937
+May  1 17:28:15 mhuynh2 kernel: 
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 60430 | Inactive: 6964 | Laundry: 0 | Free: 366767
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 604 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 76 | Inactive->Active: 0 | Inactive->Free: 141
+May  1 17:28:15 mhuynh2 kernel: 
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 72546 | Inactive: 7028 | Laundry: 0 | Free: 354511
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 725 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 26 | Inactive->Active: 0 | Inactive->Free: 180
+May  1 17:28:15 mhuynh2 kernel: 
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 72520 | Inactive: 7060 | Laundry: 0 | Free: 352278
+May  1 17:28:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 725 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 20 | Inactive->Active: 0 | Inactive->Free: 1209
+May  1 17:28:15 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 81332 | Inactive: 7092 | Laundry: 0 | Free: 343363
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 813 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 38 | Inactive->Active: 0 | Inactive->Free: 167
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 81710 | Inactive: 7124 | Laundry: 0 | Free: 342915
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 817 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 48 | Inactive->Active: 0 | Inactive->Free: 54
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 96446 | Inactive: 7188 | Laundry: 0 | Free: 326639
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 964 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 37 | Inactive->Active: 0 | Inactive->Free: 1692
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 96409 | Inactive: 7220 | Laundry: 0 | Free: 306727
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 964 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 35 | Inactive->Active: 0 | Inactive->Free: 15176
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 96374 | Inactive: 7252 | Laundry: 0 | Free: 294851
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 963 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 56 | Inactive->Active: 0 | Inactive->Free: 10053
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 107262 | Inactive: 7316 | Laundry: 0 | Free: 283869
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1072 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 53 | Inactive->Active: 0 | Inactive->Free: 188
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 108137 | Inactive: 7348 | Laundry: 0 | Free: 276408
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1081 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 65 | Inactive->Active: 0 | Inactive->Free: 6537
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 112680 | Inactive: 7412 | Laundry: 0 | Free: 271781
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1126 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 66 | Inactive->Active: 0 | Inactive->Free: 74
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 118022 | Inactive: 7476 | Laundry: 0 | Free: 266362
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1180 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 85
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 117970 | Inactive: 7540 | Laundry: 0 | Free: 266362
+May  1 17:28:16 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1179 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 41 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:16 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 120873 | Inactive: 7572 | Laundry: 0 | Free: 259260
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1208 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 51 | Inactive->Active: 0 | Inactive->Free: 4191
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 120822 | Inactive: 7636 | Laundry: 0 | Free: 251115
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1208 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 8141
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 120763 | Inactive: 7700 | Laundry: 0 | Free: 246890
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1192 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 130 | Inactive->Active: 0 | Inactive->Free: 4223
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 120633 | Inactive: 7828 | Laundry: 0 | Free: 232336
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1206 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 494 | Inactive->Active: 0 | Inactive->Free: 12318
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 124747 | Inactive: 8308 | Laundry: 0 | Free: 226268
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1247 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 69 | Inactive->Active: 0 | Inactive->Free: 1518
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 124678 | Inactive: 8372 | Laundry: 0 | Free: 226268
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1246 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 98 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131236 | Inactive: 8468 | Laundry: 0 | Free: 219569
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1312 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 83 | Inactive->Active: 0 | Inactive->Free: 126
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131153 | Inactive: 8564 | Laundry: 0 | Free: 216629
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1311 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 109 | Inactive->Active: 0 | Inactive->Free: 2940
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131044 | Inactive: 8660 | Laundry: 0 | Free: 216622
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1310 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 115 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130929 | Inactive: 8788 | Laundry: 0 | Free: 216598
+May  1 17:28:17 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1309 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 107 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:28:17 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130822 | Inactive: 8884 | Laundry: 0 | Free: 207738
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1308 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 74 | Inactive->Active: 0 | Inactive->Free: 8861
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130748 | Inactive: 8980 | Laundry: 0 | Free: 207738
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1307 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 105 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130643 | Inactive: 9076 | Laundry: 0 | Free: 204310
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1306 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 70 | Inactive->Active: 0 | Inactive->Free: 3424
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130573 | Inactive: 9140 | Laundry: 0 | Free: 204297
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1305 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 80 | Inactive->Active: 0 | Inactive->Free: 15
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130493 | Inactive: 9236 | Laundry: 0 | Free: 204297
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1304 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 101 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130392 | Inactive: 9332 | Laundry: 0 | Free: 200088
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1303 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 4204
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130333 | Inactive: 9396 | Laundry: 0 | Free: 200088
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1303 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 39 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130294 | Inactive: 9428 | Laundry: 0 | Free: 200047
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1302 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 65 | Inactive->Active: 0 | Inactive->Free: 46
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130229 | Inactive: 9492 | Laundry: 0 | Free: 195863
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1302 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 56 | Inactive->Active: 0 | Inactive->Free: 4180
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130173 | Inactive: 9556 | Laundry: 0 | Free: 187984
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1301 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 80 | Inactive->Active: 0 | Inactive->Free: 7876
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130093 | Inactive: 9620 | Laundry: 0 | Free: 183485
+May  1 17:28:18 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1300 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 4499
+May  1 17:28:18 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130034 | Inactive: 9684 | Laundry: 0 | Free: 180456
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1300 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 3028
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129975 | Inactive: 9748 | Laundry: 0 | Free: 179299
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1299 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 67 | Inactive->Active: 0 | Inactive->Free: 1161
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129908 | Inactive: 9812 | Laundry: 0 | Free: 179299
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1299 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129859 | Inactive: 9844 | Laundry: 0 | Free: 169879
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1298 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 63 | Inactive->Active: 0 | Inactive->Free: 9415
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129796 | Inactive: 9908 | Laundry: 0 | Free: 169864
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1297 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 42 | Inactive->Active: 0 | Inactive->Free: 16
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129754 | Inactive: 9972 | Laundry: 0 | Free: 169864
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1297 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 77 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129677 | Inactive: 10036 | Laundry: 0 | Free: 166974
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1296 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 71 | Inactive->Active: 0 | Inactive->Free: 2891
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129606 | Inactive: 10100 | Laundry: 0 | Free: 156179
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1296 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 68 | Inactive->Active: 0 | Inactive->Free: 10789
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129538 | Inactive: 10164 | Laundry: 0 | Free: 154557
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1295 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 83 | Inactive->Active: 0 | Inactive->Free: 1624
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129455 | Inactive: 10260 | Laundry: 0 | Free: 154557
+May  1 17:28:19 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1294 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 62 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:19 mhuynh2 kernel: 
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129393 | Inactive: 10324 | Laundry: 0 | Free: 154557
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1293 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 50 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:20 mhuynh2 kernel: 
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129343 | Inactive: 10388 | Laundry: 0 | Free: 151449
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1293 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 81 | Inactive->Active: 0 | Inactive->Free: 3104
+May  1 17:28:20 mhuynh2 kernel: 
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129262 | Inactive: 10452 | Laundry: 0 | Free: 148623
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1292 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 64 | Inactive->Active: 0 | Inactive->Free: 2832
+May  1 17:28:20 mhuynh2 kernel: 
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129198 | Inactive: 10516 | Laundry: 0 | Free: 134551
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1291 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 62 | Inactive->Active: 0 | Inactive->Free: 12179
+May  1 17:28:20 mhuynh2 kernel: 
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129136 | Inactive: 10580 | Laundry: 0 | Free: 134551
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1291 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 60 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:20 mhuynh2 kernel: 
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129076 | Inactive: 10644 | Laundry: 0 | Free: 134551
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1290 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 87 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:20 mhuynh2 kernel: 
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128989 | Inactive: 10740 | Laundry: 0 | Free: 134551
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1289 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:20 mhuynh2 kernel: 
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128937 | Inactive: 10772 | Laundry: 0 | Free: 131960
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1289 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 76 | Inactive->Active: 0 | Inactive->Free: 2589
+May  1 17:28:20 mhuynh2 kernel: 
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128861 | Inactive: 10868 | Laundry: 0 | Free: 131960
+May  1 17:28:20 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1288 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 34 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:20 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128827 | Inactive: 10900 | Laundry: 0 | Free: 131960
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1288 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 37 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128790 | Inactive: 10932 | Laundry: 0 | Free: 131960
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1287 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 29 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128761 | Inactive: 10964 | Laundry: 0 | Free: 128557
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1287 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 3405
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128712 | Inactive: 10996 | Laundry: 0 | Free: 128557
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1287 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 56 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128656 | Inactive: 11060 | Laundry: 0 | Free: 128541
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1286 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 27 | Inactive->Active: 0 | Inactive->Free: 15
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128629 | Inactive: 11092 | Laundry: 0 | Free: 120159
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1286 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 8379
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128580 | Inactive: 11124 | Laundry: 0 | Free: 120143
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1285 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 40 | Inactive->Active: 0 | Inactive->Free: 16
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128540 | Inactive: 11188 | Laundry: 0 | Free: 120143
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1285 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 53 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128487 | Inactive: 11220 | Laundry: 0 | Free: 115408
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1284 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 46 | Inactive->Active: 0 | Inactive->Free: 4733
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128441 | Inactive: 11284 | Laundry: 0 | Free: 115408
+May  1 17:28:21 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1284 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 76 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:21 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128365 | Inactive: 11348 | Laundry: 0 | Free: 115408
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1283 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128310 | Inactive: 11412 | Laundry: 0 | Free: 115408
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1283 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 65 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128245 | Inactive: 11476 | Laundry: 0 | Free: 110704
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1282 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 4702
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128186 | Inactive: 11540 | Laundry: 0 | Free: 110704
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1281 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 39 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128147 | Inactive: 11572 | Laundry: 0 | Free: 102574
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1281 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 50 | Inactive->Active: 0 | Inactive->Free: 8133
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128097 | Inactive: 11604 | Laundry: 0 | Free: 102555
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1280 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 43 | Inactive->Active: 0 | Inactive->Free: 18
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128054 | Inactive: 11668 | Laundry: 0 | Free: 102555
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1280 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 38 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128016 | Inactive: 11700 | Laundry: 0 | Free: 102313
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1280 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 42 | Inactive->Active: 0 | Inactive->Free: 241
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127974 | Inactive: 11732 | Laundry: 0 | Free: 98879
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1279 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 42 | Inactive->Active: 0 | Inactive->Free: 3433
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127932 | Inactive: 11796 | Laundry: 0 | Free: 98879
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1279 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 75 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127857 | Inactive: 11860 | Laundry: 0 | Free: 98870
+May  1 17:28:22 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1278 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 53 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:28:22 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127804 | Inactive: 11924 | Laundry: 0 | Free: 98858
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1278 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 75 | Inactive->Active: 0 | Inactive->Free: 15
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127729 | Inactive: 11988 | Laundry: 0 | Free: 98352
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1277 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 50 | Inactive->Active: 0 | Inactive->Free: 501
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127679 | Inactive: 12052 | Laundry: 0 | Free: 98332
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1276 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 43 | Inactive->Active: 0 | Inactive->Free: 24
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127636 | Inactive: 12084 | Laundry: 0 | Free: 98332
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1276 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 42 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127594 | Inactive: 12116 | Laundry: 0 | Free: 95735
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 47 | Inactive->Active: 0 | Inactive->Free: 2595
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127547 | Inactive: 12180 | Laundry: 0 | Free: 95735
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 83 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127464 | Inactive: 12244 | Laundry: 0 | Free: 95717
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1274 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 39 | Inactive->Active: 0 | Inactive->Free: 18
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127425 | Inactive: 12276 | Laundry: 0 | Free: 95717
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1274 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 33 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127392 | Inactive: 12308 | Laundry: 0 | Free: 95702
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1273 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 54 | Inactive->Active: 0 | Inactive->Free: 14
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127338 | Inactive: 12372 | Laundry: 0 | Free: 95702
+May  1 17:28:23 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1273 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 40 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:23 mhuynh2 kernel: 
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127298 | Inactive: 12404 | Laundry: 0 | Free: 95637
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 43 | Inactive->Active: 0 | Inactive->Free: 65
+May  1 17:28:24 mhuynh2 kernel: 
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127255 | Inactive: 12468 | Laundry: 0 | Free: 89676
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 34 | Inactive->Active: 0 | Inactive->Free: 5960
+May  1 17:28:24 mhuynh2 kernel: 
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127221 | Inactive: 12500 | Laundry: 0 | Free: 89658
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 31 | Inactive->Active: 0 | Inactive->Free: 17
+May  1 17:28:24 mhuynh2 kernel: 
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127190 | Inactive: 12532 | Laundry: 0 | Free: 89658
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 33 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:24 mhuynh2 kernel: 
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127157 | Inactive: 12564 | Laundry: 0 | Free: 82292
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 31 | Inactive->Active: 0 | Inactive->Free: 7364
+May  1 17:28:24 mhuynh2 kernel: 
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127126 | Inactive: 12596 | Laundry: 0 | Free: 82292
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 44 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:24 mhuynh2 kernel: 
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127082 | Inactive: 12628 | Laundry: 0 | Free: 82292
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1270 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 30 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:24 mhuynh2 kernel: 
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127052 | Inactive: 12660 | Laundry: 0 | Free: 82292
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1270 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 48 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:24 mhuynh2 kernel: 
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127004 | Inactive: 12724 | Laundry: 0 | Free: 77082
+May  1 17:28:24 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1270 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 5213
+May  1 17:28:24 mhuynh2 kernel: 
+May  1 17:28:26 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 766 | Inactive: 7632 | Laundry: 0 | Free: 208656
+May  1 17:28:26 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 7 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 114
+May  1 17:28:26 mhuynh2 kernel: 
+May  1 17:28:26 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 13364 | Inactive: 7632 | Laundry: 0 | Free: 196054
+May  1 17:28:26 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 133 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 1 | Inactive->Active: 0 | Inactive->Free: 161
+May  1 17:28:26 mhuynh2 kernel: 
+May  1 17:28:26 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 20339 | Inactive: 7632 | Laundry: 0 | Free: 177598
+May  1 17:28:26 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 203 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 1 | Inactive->Active: 0 | Inactive->Free: 11508
+May  1 17:28:26 mhuynh2 kernel: 
+May  1 17:28:26 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 21266 | Inactive: 7632 | Laundry: 0 | Free: 171727
+May  1 17:28:26 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 204 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 9 | Inactive->Active: 0 | Inactive->Free: 4951
+May  1 17:28:26 mhuynh2 kernel: 
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 30601 | Inactive: 7652 | Laundry: 0 | Free: 159641
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 306 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 2 | Inactive->Active: 0 | Inactive->Free: 2882
+May  1 17:28:27 mhuynh2 kernel: 
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 36359 | Inactive: 7652 | Laundry: 0 | Free: 153843
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 363 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 1 | Inactive->Active: 0 | Inactive->Free: 84
+May  1 17:28:27 mhuynh2 kernel: 
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 36358 | Inactive: 7652 | Laundry: 0 | Free: 153820
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 363 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 24
+May  1 17:28:27 mhuynh2 kernel: 
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 39590 | Inactive: 7652 | Laundry: 0 | Free: 150584
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 395 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 14 | Inactive->Active: 0 | Inactive->Free: 39
+May  1 17:28:27 mhuynh2 kernel: 
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 52952 | Inactive: 7652 | Laundry: 0 | Free: 137198
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 529 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 23 | Inactive->Active: 0 | Inactive->Free: 201
+May  1 17:28:27 mhuynh2 kernel: 
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 61601 | Inactive: 7683 | Laundry: 0 | Free: 128509
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 616 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 28 | Inactive->Active: 0 | Inactive->Free: 139
+May  1 17:28:27 mhuynh2 kernel: 
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 69829 | Inactive: 7715 | Laundry: 0 | Free: 120243
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 698 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 18 | Inactive->Active: 0 | Inactive->Free: 144
+May  1 17:28:27 mhuynh2 kernel: 
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 86355 | Inactive: 7715 | Laundry: 0 | Free: 103629
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 863 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 53 | Inactive->Active: 0 | Inactive->Free: 266
+May  1 17:28:27 mhuynh2 kernel: 
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 100286 | Inactive: 7779 | Laundry: 0 | Free: 89624
+May  1 17:28:27 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1002 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 47 | Inactive->Active: 0 | Inactive->Free: 211
+May  1 17:28:27 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 100239 | Inactive: 7811 | Laundry: 0 | Free: 89624
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1002 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 38 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 101545 | Inactive: 7875 | Laundry: 0 | Free: 88274
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1015 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 63 | Inactive->Active: 0 | Inactive->Free: 22
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 111082 | Inactive: 7939 | Laundry: 0 | Free: 78674
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1110 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 44 | Inactive->Active: 0 | Inactive->Free: 143
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 122558 | Inactive: 7971 | Laundry: 0 | Free: 67120
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1225 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 58 | Inactive->Active: 0 | Inactive->Free: 182
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 122500 | Inactive: 8035 | Laundry: 0 | Free: 67120
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1225 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 75 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 122425 | Inactive: 8099 | Laundry: 0 | Free: 67109
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1224 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 54 | Inactive->Active: 0 | Inactive->Free: 15
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130851 | Inactive: 8163 | Laundry: 0 | Free: 58707
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1308 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 51 | Inactive->Active: 0 | Inactive->Free: 215
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131536 | Inactive: 8195 | Laundry: 0 | Free: 57958
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1315 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 46 | Inactive->Active: 0 | Inactive->Free: 49
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131490 | Inactive: 8259 | Laundry: 0 | Free: 57958
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1314 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 85 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131405 | Inactive: 8323 | Laundry: 0 | Free: 57958
+May  1 17:28:28 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1314 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 57 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:28 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131348 | Inactive: 8387 | Laundry: 0 | Free: 57958
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1313 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 54 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131294 | Inactive: 8451 | Laundry: 0 | Free: 57958
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1312 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 73 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131221 | Inactive: 8515 | Laundry: 0 | Free: 57949
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1312 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 53 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131168 | Inactive: 8579 | Laundry: 0 | Free: 57949
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1297 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 39 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131129 | Inactive: 8611 | Laundry: 0 | Free: 57949
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1311 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 101 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131028 | Inactive: 8707 | Laundry: 0 | Free: 57947
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1310 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 66 | Inactive->Active: 0 | Inactive->Free: 1
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130962 | Inactive: 8771 | Laundry: 0 | Free: 57923
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1309 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 69 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130893 | Inactive: 8835 | Laundry: 0 | Free: 57923
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1308 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 107 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130786 | Inactive: 8963 | Laundry: 0 | Free: 57923
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1307 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 75 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130711 | Inactive: 9027 | Laundry: 0 | Free: 57913
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1307 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 103 | Inactive->Active: 0 | Inactive->Free: 10
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130608 | Inactive: 9123 | Laundry: 0 | Free: 57913
+May  1 17:28:29 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1306 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 107 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:29 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130501 | Inactive: 9251 | Laundry: 0 | Free: 57913
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1305 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 79 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130422 | Inactive: 9315 | Laundry: 0 | Free: 57913
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1304 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 74 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130348 | Inactive: 9379 | Laundry: 0 | Free: 57906
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1303 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 119 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130229 | Inactive: 9507 | Laundry: 0 | Free: 57906
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1302 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 111 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130118 | Inactive: 9635 | Laundry: 0 | Free: 57906
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1301 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130069 | Inactive: 9667 | Laundry: 0 | Free: 57906
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1300 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 114 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129955 | Inactive: 9795 | Laundry: 0 | Free: 57906
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1299 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 94 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129861 | Inactive: 9891 | Laundry: 0 | Free: 57901
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1428 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 68 | Inactive->Active: 0 | Inactive->Free: 6
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129793 | Inactive: 9955 | Laundry: 0 | Free: 57901
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1297 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 65 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129728 | Inactive: 10019 | Laundry: 0 | Free: 57901
+May  1 17:28:30 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1297 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 65 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:30 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129663 | Inactive: 10083 | Laundry: 0 | Free: 57901
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1296 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 57 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129606 | Inactive: 10147 | Laundry: 0 | Free: 57891
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1296 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 8
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129547 | Inactive: 10211 | Laundry: 0 | Free: 57891
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1295 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 84 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129463 | Inactive: 10275 | Laundry: 0 | Free: 57888
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1294 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 63 | Inactive->Active: 0 | Inactive->Free: 3
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129400 | Inactive: 10339 | Laundry: 0 | Free: 57888
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1294 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 67 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129333 | Inactive: 10403 | Laundry: 0 | Free: 57882
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1293 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 58 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129275 | Inactive: 10467 | Laundry: 0 | Free: 57882
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1292 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129216 | Inactive: 10531 | Laundry: 0 | Free: 57882
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1292 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 46 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129170 | Inactive: 10563 | Laundry: 0 | Free: 57880
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1291 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 68 | Inactive->Active: 0 | Inactive->Free: 1
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129102 | Inactive: 10627 | Laundry: 0 | Free: 57880
+May  1 17:28:31 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1291 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 73 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:31 mhuynh2 kernel: 
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129029 | Inactive: 10723 | Laundry: 0 | Free: 57880
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1290 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 75 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:32 mhuynh2 kernel: 
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128954 | Inactive: 10787 | Laundry: 0 | Free: 57880
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1289 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 32 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:32 mhuynh2 kernel: 
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128922 | Inactive: 10819 | Laundry: 0 | Free: 57870
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1289 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 85 | Inactive->Active: 0 | Inactive->Free: 13
+May  1 17:28:32 mhuynh2 kernel: 
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128837 | Inactive: 10915 | Laundry: 0 | Free: 57870
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1288 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 68 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:32 mhuynh2 kernel: 
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128769 | Inactive: 10979 | Laundry: 0 | Free: 57867
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1287 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 77 | Inactive->Active: 0 | Inactive->Free: 1
+May  1 17:28:32 mhuynh2 kernel: 
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128692 | Inactive: 11043 | Laundry: 0 | Free: 57867
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1286 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 61 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:32 mhuynh2 kernel: 
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128631 | Inactive: 11107 | Laundry: 0 | Free: 57864
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1286 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 71 | Inactive->Active: 0 | Inactive->Free: 3
+May  1 17:28:32 mhuynh2 kernel: 
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128560 | Inactive: 11171 | Laundry: 0 | Free: 57864
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1285 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 71 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:32 mhuynh2 kernel: 
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128489 | Inactive: 11267 | Laundry: 0 | Free: 57864
+May  1 17:28:32 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1284 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 58 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:32 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128431 | Inactive: 11299 | Laundry: 0 | Free: 57794
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1284 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 63 | Inactive->Active: 0 | Inactive->Free: 6
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128368 | Inactive: 11363 | Laundry: 0 | Free: 57794
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1283 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 88 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128280 | Inactive: 11459 | Laundry: 0 | Free: 57794
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1282 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 71 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128209 | Inactive: 11523 | Laundry: 0 | Free: 57794
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1282 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 74 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128135 | Inactive: 11619 | Laundry: 0 | Free: 57792
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1281 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 73 | Inactive->Active: 0 | Inactive->Free: 1
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128062 | Inactive: 11683 | Laundry: 0 | Free: 57792
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1280 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 90 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127972 | Inactive: 11779 | Laundry: 0 | Free: 57792
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1279 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 51 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127921 | Inactive: 11811 | Laundry: 0 | Free: 57791
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1279 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 31 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127890 | Inactive: 11843 | Laundry: 0 | Free: 57791
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1278 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 34 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127856 | Inactive: 11875 | Laundry: 0 | Free: 57791
+May  1 17:28:33 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1278 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 33 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:33 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127823 | Inactive: 11907 | Laundry: 0 | Free: 57789
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1278 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 62 | Inactive->Active: 0 | Inactive->Free: 4
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127761 | Inactive: 11971 | Laundry: 0 | Free: 57789
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1277 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 48 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127713 | Inactive: 12035 | Laundry: 0 | Free: 57789
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1277 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 29 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127684 | Inactive: 12067 | Laundry: 0 | Free: 57782
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1276 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 40 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127644 | Inactive: 12099 | Laundry: 0 | Free: 57782
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1276 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 21 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127623 | Inactive: 12131 | Laundry: 0 | Free: 57782
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1276 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 45 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127578 | Inactive: 12163 | Laundry: 0 | Free: 57782
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 39 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127539 | Inactive: 12195 | Laundry: 0 | Free: 57782
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 32 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127507 | Inactive: 12227 | Laundry: 0 | Free: 57782
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127458 | Inactive: 12291 | Laundry: 0 | Free: 57782
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1274 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 43 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127415 | Inactive: 12323 | Laundry: 0 | Free: 57772
+May  1 17:28:34 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1274 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 60 | Inactive->Active: 0 | Inactive->Free: 10
+May  1 17:28:34 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127355 | Inactive: 12387 | Laundry: 0 | Free: 57772
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1273 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 25 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127330 | Inactive: 12419 | Laundry: 0 | Free: 57772
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1273 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 36 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127294 | Inactive: 12451 | Laundry: 0 | Free: 57772
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 40 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127254 | Inactive: 12483 | Laundry: 0 | Free: 57769
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 34 | Inactive->Active: 0 | Inactive->Free: 2
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127220 | Inactive: 12515 | Laundry: 0 | Free: 57769
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 33 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127187 | Inactive: 12547 | Laundry: 0 | Free: 57761
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 44 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127143 | Inactive: 12611 | Laundry: 0 | Free: 57761
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 51 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127092 | Inactive: 12643 | Laundry: 0 | Free: 57761
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1270 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 29 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127063 | Inactive: 12675 | Laundry: 0 | Free: 57761
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1270 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 56 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127007 | Inactive: 12739 | Laundry: 0 | Free: 54763
+May  1 17:28:35 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1270 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 26 | Inactive->Active: 0 | Inactive->Free: 3002
+May  1 17:28:35 mhuynh2 kernel: 
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126981 | Inactive: 12771 | Laundry: 0 | Free: 54737
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1269 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 50 | Inactive->Active: 0 | Inactive->Free: 23
+May  1 17:28:36 mhuynh2 kernel: 
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126931 | Inactive: 12803 | Laundry: 0 | Free: 54737
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1269 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 45 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:36 mhuynh2 kernel: 
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126886 | Inactive: 12867 | Laundry: 0 | Free: 51599
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1268 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 3140
+May  1 17:28:36 mhuynh2 kernel: 
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126834 | Inactive: 12899 | Laundry: 0 | Free: 51599
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1268 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:36 mhuynh2 kernel: 
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126785 | Inactive: 12963 | Laundry: 0 | Free: 51573
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1267 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 47 | Inactive->Active: 0 | Inactive->Free: 26
+May  1 17:28:36 mhuynh2 kernel: 
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126738 | Inactive: 12995 | Laundry: 0 | Free: 46058
+May  1 17:28:36 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1267 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 43 | Inactive->Active: 0 | Inactive->Free: 5514
+May  1 17:28:36 mhuynh2 kernel: 
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 737 | Inactive: 7681 | Laundry: 0 | Free: 177637
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 7 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 110
+May  1 17:28:38 mhuynh2 kernel: 
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 11287 | Inactive: 7681 | Laundry: 0 | Free: 163428
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 112 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 3744
+May  1 17:28:38 mhuynh2 kernel: 
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 15847 | Inactive: 7364 | Laundry: 0 | Free: 158997
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 158 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 139
+May  1 17:28:38 mhuynh2 kernel: 
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 24263 | Inactive: 7364 | Laundry: 0 | Free: 150524
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 242 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 5 | Inactive->Active: 0 | Inactive->Free: 89
+May  1 17:28:38 mhuynh2 kernel: 
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 41506 | Inactive: 7364 | Laundry: 0 | Free: 121694
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 415 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 2 | Inactive->Active: 0 | Inactive->Free: 11803
+May  1 17:28:38 mhuynh2 kernel: 
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 49856 | Inactive: 7364 | Laundry: 0 | Free: 113300
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 498 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 3 | Inactive->Active: 0 | Inactive->Free: 153
+May  1 17:28:38 mhuynh2 kernel: 
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 61341 | Inactive: 7352 | Laundry: 0 | Free: 100781
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 613 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 20 | Inactive->Active: 0 | Inactive->Free: 1214
+May  1 17:28:38 mhuynh2 kernel: 
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 63017 | Inactive: 7352 | Laundry: 0 | Free: 98879
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 630 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 19 | Inactive->Active: 0 | Inactive->Free: 86
+May  1 17:28:38 mhuynh2 kernel: 
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 71670 | Inactive: 7384 | Laundry: 0 | Free: 90198
+May  1 17:28:38 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 716 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 24 | Inactive->Active: 0 | Inactive->Free: 142
+May  1 17:28:38 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 77310 | Inactive: 7384 | Laundry: 0 | Free: 84053
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 773 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 37 | Inactive->Active: 0 | Inactive->Free: 574
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 89977 | Inactive: 7448 | Laundry: 0 | Free: 71300
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 899 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 44 | Inactive->Active: 0 | Inactive->Free: 196
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 89933 | Inactive: 7480 | Laundry: 0 | Free: 71300
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 899 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 35 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 99978 | Inactive: 7512 | Laundry: 0 | Free: 61210
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 999 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 51 | Inactive->Active: 0 | Inactive->Free: 152
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 101399 | Inactive: 7576 | Laundry: 0 | Free: 59728
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1013 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 58 | Inactive->Active: 0 | Inactive->Free: 34
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 104893 | Inactive: 7640 | Laundry: 0 | Free: 56185
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1048 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 51
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 114246 | Inactive: 7672 | Laundry: 0 | Free: 46765
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1142 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 57 | Inactive->Active: 0 | Inactive->Free: 139
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 123629 | Inactive: 7736 | Laundry: 0 | Free: 37578
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1236 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 74 | Inactive->Active: 0 | Inactive->Free: 281
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 123555 | Inactive: 7800 | Laundry: 0 | Free: 37578
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1235 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 64 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126723 | Inactive: 7864 | Laundry: 0 | Free: 34324
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1267 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 162
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126671 | Inactive: 7928 | Laundry: 0 | Free: 34324
+May  1 17:28:39 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1266 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 56 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:39 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131351 | Inactive: 7992 | Laundry: 0 | Free: 29538
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1313 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 88 | Inactive->Active: 0 | Inactive->Free: 257
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131263 | Inactive: 8056 | Laundry: 0 | Free: 29536
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1312 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 58 | Inactive->Active: 0 | Inactive->Free: 1
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131269 | Inactive: 8120 | Laundry: 0 | Free: 29283
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1312 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 79 | Inactive->Active: 0 | Inactive->Free: 6
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131190 | Inactive: 8216 | Laundry: 0 | Free: 29283
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1311 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131138 | Inactive: 8248 | Laundry: 0 | Free: 29283
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1311 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 51 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131087 | Inactive: 8312 | Laundry: 0 | Free: 29283
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1310 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 63 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131024 | Inactive: 8376 | Laundry: 0 | Free: 29283
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1310 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 70 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130954 | Inactive: 8440 | Laundry: 0 | Free: 29283
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1307 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 216 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130738 | Inactive: 8664 | Laundry: 0 | Free: 29283
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1307 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 60 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130678 | Inactive: 8728 | Laundry: 0 | Free: 29283
+May  1 17:28:40 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1306 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 72 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:40 mhuynh2 kernel: 
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130606 | Inactive: 8792 | Laundry: 0 | Free: 29283
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1306 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 68 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:41 mhuynh2 kernel: 
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130538 | Inactive: 8856 | Laundry: 0 | Free: 29283
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1305 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 100 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:41 mhuynh2 kernel: 
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130438 | Inactive: 8952 | Laundry: 0 | Free: 29283
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1304 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 96 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:41 mhuynh2 kernel: 
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130342 | Inactive: 9048 | Laundry: 0 | Free: 29283
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1303 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 115 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:41 mhuynh2 kernel: 
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130227 | Inactive: 9176 | Laundry: 0 | Free: 29283
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1302 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 118 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:41 mhuynh2 kernel: 
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130109 | Inactive: 9304 | Laundry: 0 | Free: 29283
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1301 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 87 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:41 mhuynh2 kernel: 
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130022 | Inactive: 9368 | Laundry: 0 | Free: 29283
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1300 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 90 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:41 mhuynh2 kernel: 
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129932 | Inactive: 9464 | Laundry: 0 | Free: 29283
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1299 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 91 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:41 mhuynh2 kernel: 
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129841 | Inactive: 9560 | Laundry: 0 | Free: 29283
+May  1 17:28:41 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1298 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 87 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:41 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129754 | Inactive: 9656 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1297 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 73 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129681 | Inactive: 9720 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1296 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 114 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129567 | Inactive: 9816 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1295 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 81 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129486 | Inactive: 9912 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1294 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 78 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129408 | Inactive: 9976 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1294 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 126 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129282 | Inactive: 10104 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1292 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 111 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129171 | Inactive: 10232 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1291 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 58 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129113 | Inactive: 10296 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1291 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 48 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129065 | Inactive: 10328 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1290 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 47 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129018 | Inactive: 10392 | Laundry: 0 | Free: 29283
+May  1 17:28:42 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1290 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:42 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128963 | Inactive: 10424 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1289 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 41 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128922 | Inactive: 10488 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1289 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 65 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128857 | Inactive: 10552 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1288 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 71 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128786 | Inactive: 10616 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1287 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 88 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128698 | Inactive: 10712 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1286 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 57 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128641 | Inactive: 10744 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1286 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 54 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128587 | Inactive: 10808 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1285 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 82 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128505 | Inactive: 10904 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1285 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 69 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128436 | Inactive: 10968 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1284 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 57 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128379 | Inactive: 11032 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1283 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128320 | Inactive: 11064 | Laundry: 0 | Free: 29283
+May  1 17:28:43 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1283 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 58 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:43 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128262 | Inactive: 11128 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1282 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 70 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128192 | Inactive: 11192 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1281 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 96 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128096 | Inactive: 11288 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1280 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 54 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128042 | Inactive: 11352 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1280 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 77 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127965 | Inactive: 11448 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1279 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 63 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127902 | Inactive: 11480 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1279 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 69 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127833 | Inactive: 11576 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1278 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 57 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127776 | Inactive: 11608 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1277 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 82 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127694 | Inactive: 11704 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1276 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 54 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127640 | Inactive: 11768 | Laundry: 0 | Free: 29283
+May  1 17:28:44 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1276 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 33 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:44 mhuynh2 kernel: 
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127607 | Inactive: 11800 | Laundry: 0 | Free: 29283
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1276 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 34 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:45 mhuynh2 kernel: 
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127573 | Inactive: 11832 | Laundry: 0 | Free: 29283
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 24 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:45 mhuynh2 kernel: 
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127549 | Inactive: 11864 | Laundry: 0 | Free: 29283
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 24 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:45 mhuynh2 kernel: 
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127525 | Inactive: 11864 | Laundry: 0 | Free: 29283
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 33 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:45 mhuynh2 kernel: 
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127492 | Inactive: 11896 | Laundry: 0 | Free: 29283
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1274 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 70 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:45 mhuynh2 kernel: 
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127422 | Inactive: 11960 | Laundry: 0 | Free: 29283
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1274 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 13 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:45 mhuynh2 kernel: 
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127409 | Inactive: 11992 | Laundry: 0 | Free: 29283
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1274 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 65 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:45 mhuynh2 kernel: 
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127344 | Inactive: 12056 | Laundry: 0 | Free: 29283
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1273 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 44 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:45 mhuynh2 kernel: 
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127300 | Inactive: 12088 | Laundry: 0 | Free: 29283
+May  1 17:28:45 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1273 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 45 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:45 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127255 | Inactive: 12152 | Laundry: 0 | Free: 29283
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 28 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127227 | Inactive: 12184 | Laundry: 0 | Free: 29283
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 37 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127190 | Inactive: 12216 | Laundry: 0 | Free: 29283
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 31 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127159 | Inactive: 12248 | Laundry: 0 | Free: 29283
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127100 | Inactive: 12312 | Laundry: 0 | Free: 29283
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 62 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127038 | Inactive: 12344 | Laundry: 0 | Free: 29283
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1270 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 61 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126977 | Inactive: 12408 | Laundry: 0 | Free: 29276
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1269 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 54 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126923 | Inactive: 12472 | Laundry: 0 | Free: 29276
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1269 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 39 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126884 | Inactive: 12504 | Laundry: 0 | Free: 29276
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1268 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 70 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126814 | Inactive: 12568 | Laundry: 0 | Free: 29276
+May  1 17:28:46 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1268 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 47 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:46 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126767 | Inactive: 12632 | Laundry: 0 | Free: 29276
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1267 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126715 | Inactive: 12696 | Laundry: 0 | Free: 29276
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1267 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 43 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126672 | Inactive: 12728 | Laundry: 0 | Free: 29276
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1266 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 65 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126607 | Inactive: 12792 | Laundry: 0 | Free: 29276
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1266 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 40 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126567 | Inactive: 12824 | Laundry: 0 | Free: 29276
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1265 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126512 | Inactive: 12888 | Laundry: 0 | Free: 29276
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1265 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 43 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126469 | Inactive: 12920 | Laundry: 0 | Free: 29276
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1264 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 35 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126434 | Inactive: 12952 | Laundry: 0 | Free: 29268
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1264 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 45 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126389 | Inactive: 13016 | Laundry: 0 | Free: 29268
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1263 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 38 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126351 | Inactive: 13048 | Laundry: 0 | Free: 29268
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1263 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126296 | Inactive: 13112 | Laundry: 0 | Free: 29265
+May  1 17:28:47 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1262 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 60 | Inactive->Active: 0 | Inactive->Free: 2
+May  1 17:28:47 mhuynh2 kernel: 
+May  1 17:28:48 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 63136 | Inactive: 10490 | Laundry: 0 | Free: 95341
+May  1 17:28:48 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 631 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 72 | Inactive->Active: 0 | Inactive->Free: 967
+May  1 17:28:48 mhuynh2 kernel: 
+May  1 17:28:52 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 4093 | Inactive: 7523 | Laundry: 0 | Free: 157452
+May  1 17:28:52 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 40 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 130
+May  1 17:28:52 mhuynh2 kernel: 
+May  1 17:28:52 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 19869 | Inactive: 7523 | Laundry: 0 | Free: 141655
+May  1 17:28:52 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 177 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 172
+May  1 17:28:52 mhuynh2 kernel: 
+May  1 17:28:52 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 26265 | Inactive: 7523 | Laundry: 0 | Free: 135225
+May  1 17:28:52 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 262 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 90
+May  1 17:28:52 mhuynh2 kernel: 
+May  1 17:28:52 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 33785 | Inactive: 7523 | Laundry: 0 | Free: 127690
+May  1 17:28:52 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 337 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 1 | Inactive->Active: 0 | Inactive->Free: 111
+May  1 17:28:52 mhuynh2 kernel: 
+May  1 17:28:53 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 40376 | Inactive: 7523 | Laundry: 0 | Free: 121103
+May  1 17:28:53 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 403 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 18 | Inactive->Active: 0 | Inactive->Free: 95
+May  1 17:28:53 mhuynh2 kernel: 
+May  1 17:28:53 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 40358 | Inactive: 7546 | Laundry: 0 | Free: 121099
+May  1 17:28:53 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 403 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 10 | Inactive->Active: 0 | Inactive->Free: 3
+May  1 17:28:53 mhuynh2 kernel: 
+May  1 17:28:53 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 41948 | Inactive: 7546 | Laundry: 0 | Free: 119468
+May  1 17:28:53 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 419 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 17 | Inactive->Active: 0 | Inactive->Free: 24
+May  1 17:28:53 mhuynh2 kernel: 
+May  1 17:28:53 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 45419 | Inactive: 7578 | Laundry: 0 | Free: 105802
+May  1 17:28:53 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 454 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 32 | Inactive->Active: 0 | Inactive->Free: 96
+May  1 17:28:53 mhuynh2 kernel: 
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 57451 | Inactive: 7609 | Laundry: 0 | Free: 89799
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 574 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 17 | Inactive->Active: 0 | Inactive->Free: 184
+May  1 17:29:03 mhuynh2 kernel: 
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 64634 | Inactive: 7609 | Laundry: 0 | Free: 73697
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 646 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 33 | Inactive->Active: 0 | Inactive->Free: 158
+May  1 17:29:03 mhuynh2 kernel: 
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 79353 | Inactive: 7641 | Laundry: 0 | Free: 53156
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 793 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 35 | Inactive->Active: 0 | Inactive->Free: 275
+May  1 17:29:03 mhuynh2 kernel: 
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 94358 | Inactive: 7672 | Laundry: 0 | Free: 37641
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 943 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 249
+May  1 17:29:03 mhuynh2 kernel: 
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 109730 | Inactive: 7736 | Laundry: 0 | Free: 21991
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1097 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 628
+May  1 17:29:03 mhuynh2 kernel: 
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 122000 | Inactive: 7776 | Laundry: 0 | Free: 212511
+May  1 17:29:03 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 119697 | Active (Occured?): 1 | Inactive (Occured?): 1 | Active->Inactive: 5231 | Inactive->Active: 0 | Inactive->Free: 194296
+May  1 17:29:03 mhuynh2 kernel: 
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 496 | Inactive: 7529 | Laundry: 0 | Free: 329051
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 4 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 183
+May  1 17:29:05 mhuynh2 kernel: 
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 20358 | Inactive: 7538 | Laundry: 0 | Free: 309414
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 203 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 195
+May  1 17:29:05 mhuynh2 kernel: 
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 22182 | Inactive: 7538 | Laundry: 0 | Free: 307595
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 217 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 0 | Inactive->Active: 0 | Inactive->Free: 21
+May  1 17:29:05 mhuynh2 kernel: 
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 50598 | Inactive: 7538 | Laundry: 0 | Free: 279114
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 505 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 1 | Inactive->Active: 0 | Inactive->Free: 319
+May  1 17:29:05 mhuynh2 kernel: 
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 50597 | Inactive: 7538 | Laundry: 0 | Free: 279105
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 505 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 27 | Inactive->Active: 0 | Inactive->Free: 4
+May  1 17:29:05 mhuynh2 kernel: 
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 50570 | Inactive: 7538 | Laundry: 0 | Free: 279100
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 505 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 26 | Inactive->Active: 0 | Inactive->Free: 3
+May  1 17:29:05 mhuynh2 kernel: 
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 63824 | Inactive: 7570 | Laundry: 0 | Free: 265786
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 638 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 15 | Inactive->Active: 0 | Inactive->Free: 144
+May  1 17:29:05 mhuynh2 kernel: 
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 64513 | Inactive: 7601 | Laundry: 0 | Free: 265075
+May  1 17:29:05 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 645 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 32 | Inactive->Active: 0 | Inactive->Free: 12
+May  1 17:29:05 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 72353 | Inactive: 7633 | Laundry: 0 | Free: 257162
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 723 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 40 | Inactive->Active: 0 | Inactive->Free: 94
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 72313 | Inactive: 7665 | Laundry: 0 | Free: 257162
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 723 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 20 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 80773 | Inactive: 7697 | Laundry: 0 | Free: 248668
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 807 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 41 | Inactive->Active: 0 | Inactive->Free: 93
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 90172 | Inactive: 7728 | Laundry: 0 | Free: 239210
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 901 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 41 | Inactive->Active: 0 | Inactive->Free: 113
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 103059 | Inactive: 7760 | Laundry: 0 | Free: 222018
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1030 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 56 | Inactive->Active: 0 | Inactive->Free: 3111
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 103003 | Inactive: 7824 | Laundry: 0 | Free: 222018
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1030 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 54 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 104677 | Inactive: 7888 | Laundry: 0 | Free: 220170
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1046 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 28 | Inactive->Active: 0 | Inactive->Free: 22
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 110217 | Inactive: 7920 | Laundry: 0 | Free: 214602
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1102 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 75
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 114638 | Inactive: 7952 | Laundry: 0 | Free: 207576
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1146 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 51 | Inactive->Active: 0 | Inactive->Free: 2032
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 114587 | Inactive: 8016 | Laundry: 0 | Free: 207576
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1145 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 50 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 124233 | Inactive: 8080 | Laundry: 0 | Free: 197862
+May  1 17:29:06 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1242 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 47 | Inactive->Active: 0 | Inactive->Free: 138
+May  1 17:29:06 mhuynh2 kernel: 
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 124186 | Inactive: 8112 | Laundry: 0 | Free: 197834
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1241 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 60 | Inactive->Active: 0 | Inactive->Free: 24
+May  1 17:29:07 mhuynh2 kernel: 
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131198 | Inactive: 8176 | Laundry: 0 | Free: 178726
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1311 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 86 | Inactive->Active: 0 | Inactive->Free: 10831
+May  1 17:29:07 mhuynh2 kernel: 
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131112 | Inactive: 8272 | Laundry: 0 | Free: 178726
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1311 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 53 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:07 mhuynh2 kernel: 
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 131059 | Inactive: 8304 | Laundry: 0 | Free: 178692
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1310 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 76 | Inactive->Active: 0 | Inactive->Free: 33
+May  1 17:29:07 mhuynh2 kernel: 
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130983 | Inactive: 8400 | Laundry: 0 | Free: 177184
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1309 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 77 | Inactive->Active: 0 | Inactive->Free: 1413
+May  1 17:29:07 mhuynh2 kernel: 
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130906 | Inactive: 8464 | Laundry: 0 | Free: 177144
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1309 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 87 | Inactive->Active: 0 | Inactive->Free: 38
+May  1 17:29:07 mhuynh2 kernel: 
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130819 | Inactive: 8560 | Laundry: 0 | Free: 177116
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1296 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 62 | Inactive->Active: 0 | Inactive->Free: 27
+May  1 17:29:07 mhuynh2 kernel: 
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130757 | Inactive: 8624 | Laundry: 0 | Free: 177116
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1307 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 111 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:07 mhuynh2 kernel: 
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130646 | Inactive: 8720 | Laundry: 0 | Free: 164540
+May  1 17:29:07 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1306 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 84 | Inactive->Active: 0 | Inactive->Free: 11849
+May  1 17:29:07 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130562 | Inactive: 8816 | Laundry: 0 | Free: 164512
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1305 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 25
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130510 | Inactive: 8848 | Laundry: 0 | Free: 164512
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1305 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 142 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130368 | Inactive: 9008 | Laundry: 0 | Free: 161164
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1303 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 95 | Inactive->Active: 0 | Inactive->Free: 3245
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130273 | Inactive: 9104 | Laundry: 0 | Free: 161164
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1302 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 97 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130176 | Inactive: 9200 | Laundry: 0 | Free: 161115
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1301 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 60 | Inactive->Active: 0 | Inactive->Free: 17
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130116 | Inactive: 9264 | Laundry: 0 | Free: 161115
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1301 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 84 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130032 | Inactive: 9328 | Laundry: 0 | Free: 152188
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1300 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 31 | Inactive->Active: 0 | Inactive->Free: 8648
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 130001 | Inactive: 9360 | Laundry: 0 | Free: 147774
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1300 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 112 | Inactive->Active: 0 | Inactive->Free: 4286
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129889 | Inactive: 9488 | Laundry: 0 | Free: 147743
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1298 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 107 | Inactive->Active: 0 | Inactive->Free: 32
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129782 | Inactive: 9584 | Laundry: 0 | Free: 144630
+May  1 17:29:08 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1297 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 72 | Inactive->Active: 0 | Inactive->Free: 3065
+May  1 17:29:08 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129710 | Inactive: 9648 | Laundry: 0 | Free: 144630
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1297 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 97 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129613 | Inactive: 9744 | Laundry: 0 | Free: 144582
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1296 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 81 | Inactive->Active: 0 | Inactive->Free: 46
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129532 | Inactive: 9840 | Laundry: 0 | Free: 144582
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1295 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 63 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129469 | Inactive: 9904 | Laundry: 0 | Free: 144582
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1294 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 101 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129368 | Inactive: 10000 | Laundry: 0 | Free: 134421
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1293 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 59 | Inactive->Active: 0 | Inactive->Free: 10005
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129309 | Inactive: 10064 | Laundry: 0 | Free: 134391
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1293 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 29
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129254 | Inactive: 10128 | Laundry: 0 | Free: 134391
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1292 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 51 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129203 | Inactive: 10160 | Laundry: 0 | Free: 134389
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1292 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 58 | Inactive->Active: 0 | Inactive->Free: 3
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129145 | Inactive: 10224 | Laundry: 0 | Free: 134356
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1291 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 60 | Inactive->Active: 0 | Inactive->Free: 31
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129085 | Inactive: 10288 | Laundry: 0 | Free: 128400
+May  1 17:29:09 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1290 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 81 | Inactive->Active: 0 | Inactive->Free: 5896
+May  1 17:29:09 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 129004 | Inactive: 10352 | Laundry: 0 | Free: 128400
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1290 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 74 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128930 | Inactive: 10448 | Laundry: 0 | Free: 128400
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1289 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 63 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128867 | Inactive: 10512 | Laundry: 0 | Free: 128400
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1288 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 66 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128801 | Inactive: 10576 | Laundry: 0 | Free: 122576
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1288 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 62 | Inactive->Active: 0 | Inactive->Free: 5778
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128739 | Inactive: 10640 | Laundry: 0 | Free: 115873
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1287 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 73 | Inactive->Active: 0 | Inactive->Free: 6652
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128666 | Inactive: 10704 | Laundry: 0 | Free: 115873
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1286 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 81 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128585 | Inactive: 10800 | Laundry: 0 | Free: 115843
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1285 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 29
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128530 | Inactive: 10832 | Laundry: 0 | Free: 115843
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1285 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 35 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128495 | Inactive: 10864 | Laundry: 0 | Free: 111942
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1284 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 33 | Inactive->Active: 0 | Inactive->Free: 3866
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128462 | Inactive: 10896 | Laundry: 0 | Free: 111934
+May  1 17:29:10 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1284 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 29 | Inactive->Active: 0 | Inactive->Free: 7
+May  1 17:29:10 mhuynh2 kernel: 
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128433 | Inactive: 10928 | Laundry: 0 | Free: 111906
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1284 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 35 | Inactive->Active: 0 | Inactive->Free: 29
+May  1 17:29:11 mhuynh2 kernel: 
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128398 | Inactive: 10960 | Laundry: 0 | Free: 111906
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1283 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:11 mhuynh2 kernel: 
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128349 | Inactive: 11024 | Laundry: 0 | Free: 110890
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1283 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 30 | Inactive->Active: 0 | Inactive->Free: 1008
+May  1 17:29:11 mhuynh2 kernel: 
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128319 | Inactive: 11056 | Laundry: 0 | Free: 110890
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1283 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 47 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:11 mhuynh2 kernel: 
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128272 | Inactive: 11088 | Laundry: 0 | Free: 110857
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1282 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 41 | Inactive->Active: 0 | Inactive->Free: 35
+May  1 17:29:11 mhuynh2 kernel: 
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128231 | Inactive: 11152 | Laundry: 0 | Free: 97515
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1282 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 46 | Inactive->Active: 0 | Inactive->Free: 13269
+May  1 17:29:11 mhuynh2 kernel: 
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128185 | Inactive: 11184 | Laundry: 0 | Free: 97482
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1281 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 40 | Inactive->Active: 0 | Inactive->Free: 31
+May  1 17:29:11 mhuynh2 kernel: 
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128145 | Inactive: 11216 | Laundry: 0 | Free: 97482
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1281 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:11 mhuynh2 kernel: 
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128090 | Inactive: 11280 | Laundry: 0 | Free: 95681
+May  1 17:29:11 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1280 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 46 | Inactive->Active: 0 | Inactive->Free: 1796
+May  1 17:29:11 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 128044 | Inactive: 11312 | Laundry: 0 | Free: 95681
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1280 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 45 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127999 | Inactive: 11376 | Laundry: 0 | Free: 95681
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1279 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 40 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127959 | Inactive: 11408 | Laundry: 0 | Free: 95681
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1279 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 57 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127902 | Inactive: 11472 | Laundry: 0 | Free: 95677
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1279 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 51 | Inactive->Active: 0 | Inactive->Free: 3
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127851 | Inactive: 11504 | Laundry: 0 | Free: 82593
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1278 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 13035
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127796 | Inactive: 11568 | Laundry: 0 | Free: 82593
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1277 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 39 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127757 | Inactive: 11600 | Laundry: 0 | Free: 82593
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1277 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 47 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127710 | Inactive: 11664 | Laundry: 0 | Free: 81022
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1277 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 55 | Inactive->Active: 0 | Inactive->Free: 1562
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127655 | Inactive: 11728 | Laundry: 0 | Free: 81022
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1276 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 68 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127587 | Inactive: 11792 | Laundry: 0 | Free: 81022
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 80 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127507 | Inactive: 11856 | Laundry: 0 | Free: 79454
+May  1 17:29:12 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1275 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 1562
+May  1 17:29:12 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127455 | Inactive: 11920 | Laundry: 0 | Free: 79418
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1274 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 64 | Inactive->Active: 0 | Inactive->Free: 3
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127391 | Inactive: 11984 | Laundry: 0 | Free: 79418
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1273 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127342 | Inactive: 12016 | Laundry: 0 | Free: 79418
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1273 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 66 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127276 | Inactive: 12080 | Laundry: 0 | Free: 65808
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 52 | Inactive->Active: 0 | Inactive->Free: 13569
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127224 | Inactive: 12144 | Laundry: 0 | Free: 65808
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1272 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 33 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127191 | Inactive: 12176 | Laundry: 0 | Free: 65808
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 63 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127128 | Inactive: 12240 | Laundry: 0 | Free: 65021
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1271 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 45 | Inactive->Active: 0 | Inactive->Free: 785
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127083 | Inactive: 12272 | Laundry: 0 | Free: 65021
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1270 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 65 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 127018 | Inactive: 12368 | Laundry: 0 | Free: 65021
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1270 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 49 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126969 | Inactive: 12400 | Laundry: 0 | Free: 63187
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1269 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 46 | Inactive->Active: 0 | Inactive->Free: 1830
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126923 | Inactive: 12432 | Laundry: 0 | Free: 63155
+May  1 17:29:13 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1269 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 84 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:13 mhuynh2 kernel: 
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126839 | Inactive: 12528 | Laundry: 0 | Free: 63155
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1268 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 91 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:14 mhuynh2 kernel: 
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126748 | Inactive: 12624 | Laundry: 0 | Free: 63155
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1267 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 73 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:14 mhuynh2 kernel: 
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126675 | Inactive: 12688 | Laundry: 0 | Free: 51383
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1266 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 81 | Inactive->Active: 0 | Inactive->Free: 11750
+May  1 17:29:14 mhuynh2 kernel: 
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126594 | Inactive: 12784 | Laundry: 0 | Free: 51383
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1265 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 68 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:14 mhuynh2 kernel: 
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126526 | Inactive: 12848 | Laundry: 0 | Free: 51383
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1265 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 61 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:14 mhuynh2 kernel: 
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126465 | Inactive: 12912 | Laundry: 0 | Free: 46900
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1264 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 57 | Inactive->Active: 0 | Inactive->Free: 4464
+May  1 17:29:14 mhuynh2 kernel: 
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126408 | Inactive: 12976 | Laundry: 0 | Free: 46900
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1264 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 48 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:14 mhuynh2 kernel: 
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126360 | Inactive: 13008 | Laundry: 0 | Free: 46890
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1263 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 50 | Inactive->Active: 0 | Inactive->Free: 5
+May  1 17:29:14 mhuynh2 kernel: 
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126310 | Inactive: 13072 | Laundry: 0 | Free: 46890
+May  1 17:29:14 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1263 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 25 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:14 mhuynh2 kernel: 
+May  1 17:29:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126285 | Inactive: 13072 | Laundry: 0 | Free: 35854
+May  1 17:29:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1262 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 24 | Inactive->Active: 0 | Inactive->Free: 10969
+May  1 17:29:15 mhuynh2 kernel: 
+May  1 17:29:15 mhuynh2 kernel: (BON CHANCE) [Pageout Start] Active: 126261 | Inactive: 13104 | Laundry: 0 | Free: 35854
+May  1 17:29:15 mhuynh2 kernel: (BON CHANCE)[Pageout End] Scanned: 1262 | Active (Occured?): 1 | Inactive (Occured?): 0 | Active->Inactive: 36 | Inactive->Active: 0 | Inactive->Free: 0
+May  1 17:29:15 mhuynh2 kernel: 
